@@ -1,0 +1,27 @@
+Welcome to the Love Calculator!
+What is your name? 
+chandu
+What is their name? 
+priya
+Your score is 20.
+
+
+
+.
+.
+.
+Checking if your print statements match the instructions. 
+For "Mario" and "Princess Peach" your program should print this line *exactly*:
+
+Your score is 43, you are alright together.
+
+
+Running some tests on your code with different name combinations:
+.
+.
+.
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.005s
+
+OK
